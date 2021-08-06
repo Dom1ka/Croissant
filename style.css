@@ -1,3 +1,10 @@
 body {
-  background-color: aqua;
+  background: #d2d4d6;
+}
+
+.photo-body {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  max-height: 350px;
 }
