@@ -1,8 +1,17 @@
 body {
   background: #d2d4d6;
+  font-family: "Dancing Script", cursive;
 }
 
-.photo-body {
+h1 {
+  font-size: 45px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.page-body {
   margin-left: 50px;
   margin-right: 50px;
   margin-top: 20px;
